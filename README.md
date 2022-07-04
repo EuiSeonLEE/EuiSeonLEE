@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=%20EuiseonLEE&fontAlign=20&fontAlignY=40&height=150&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=%20EuiseonLEE&fontAlign=25&fontAlignY=30&height=150&fontSize=70)
 ### Hi there 👋
 
 <!--
