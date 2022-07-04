@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=WELLCOME!&fontAlign=25&fontAlignY=30&height=150&fontColor=663333&fontSize=70)
-# Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=WELLCOME&fontAlign=25&fontAlignY=30&height=150&fontColor=663333&fontSize=70)
+### Hi there 👋
 
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
