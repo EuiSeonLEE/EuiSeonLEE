@@ -7,9 +7,13 @@ And interested in Embedded System.
 Try a look at my project.😄
 
 ## Skills
+
 ### Languages
+C, C++, Python
 ### Platforms
+replit, Linux, OpenCV, OpenGL, QT, Arduino, 라즈베리파이, ARM Cortex
 ### Tools
+MATLAB, visual studio, VScode, GIT, Notion
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
