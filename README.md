@@ -5,10 +5,11 @@ I was studied at Myongji University.
 And interested in Embedded System.
 
 Try a look at my project.😄
-##Skills
-###Languages
-###Platforms
-###Tools
+
+## Skills
+### Languages
+### Platforms
+### Tools
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
