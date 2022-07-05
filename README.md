@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=wellcome&fontAlign=25&fontAlignY=30&height=150&fontColor=663333&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=wellcome&fontAlign=23&fontAlignY=25&height=150&fontColor=663333&fontSize=70)
 ### Hi! My name is Euiseon Lee✨
 I was studied at Myongji University.
 
