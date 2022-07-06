@@ -13,7 +13,10 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 ### Platforms
-replit, Linux, OpenCV, OpenGL, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a> 
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> 
+replit, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
 ### Tools
 MATLAB, visual studio, VScode, GIT, Notion, soildworks, ubuntu
 <!--
