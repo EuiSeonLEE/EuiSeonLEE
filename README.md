@@ -29,7 +29,6 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Visual Studio-2C4F7C?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Visual Studio Code-2C4F7C?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/GIT-2C4F7C?style=flat-square&logo=Git&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Notion-2C4F7C?style=flat-square&logo=Notion&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Notion-2C4F7C?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-2C4F7C?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Solidworks-2C4F7C?style=flat-square&logo=Solidworks&logoColor=white"/></a> 
