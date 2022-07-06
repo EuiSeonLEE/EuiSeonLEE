@@ -23,7 +23,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/ARM Cortex-2C4F7C?style=flat-square&logo=Arm&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/IFTTT-2C4F7C?style=flat-square&logo=IFTTT&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Adafruit-2C4F7C?style=flat-square&logo=Adafruit&logoColor=white"/></a> 
-replit, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
+
 ### Tools
 <img src="https://img.shields.io/badge/MATLAB-2C4F7C?style=flat-square&logo=MATLAB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Visual Studio-2C4F7C?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
@@ -33,7 +33,7 @@ replit, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
 <img src="https://img.shields.io/badge/Notion-2C4F7C?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-2C4F7C?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Solidworks-2C4F7C?style=flat-square&logo=Solidworks&logoColor=white"/></a> 
-MATLAB, visual studio, VScode, GIT, Notion, soildworks, ubuntu
+
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
