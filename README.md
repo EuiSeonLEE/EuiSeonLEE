@@ -13,7 +13,7 @@ C, C++, Python
 ### Platforms
 replit, Linux, OpenCV, OpenGL, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
 ### Tools
-MATLAB, visual studio, VScode, GIT, Notion, soildworks
+MATLAB, visual studio, VScode, GIT, Notion, soildworks, ubuntu
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
