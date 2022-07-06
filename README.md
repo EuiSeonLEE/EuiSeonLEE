@@ -16,7 +16,6 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a> 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> 
-<img src="https://img.shields.io/badge/Solidworks-2C4F7C?style=flat-square&logo=Solidworks&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Replit-2C4F7C?style=flat-square&logo=Replit&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Qt-2C4F7C?style=flat-square&logo=Qt&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Arduino-2C4F7C?style=flat-square&logo=Arduino&logoColor=white"/></a> 
@@ -26,6 +25,14 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Adafruit-2C4F7C?style=flat-square&logo=Adafruit&logoColor=white"/></a> 
 replit, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
 ### Tools
+<img src="https://img.shields.io/badge/MATLAB-2C4F7C?style=flat-square&logo=MATLAB&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Visual Studio-2C4F7C?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Visual Studio Code-2C4F7C?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/GIT-2C4F7C?style=flat-square&logo=Git&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Notion-2C4F7C?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Notion-2C4F7C?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-2C4F7C?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Solidworks-2C4F7C?style=flat-square&logo=Solidworks&logoColor=white"/></a> 
 MATLAB, visual studio, VScode, GIT, Notion, soildworks, ubuntu
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
