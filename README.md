@@ -11,9 +11,9 @@ Try a look at my project.😄
 ### Languages
 C, C++, Python
 ### Platforms
-replit, Linux, OpenCV, OpenGL, QT, Arduino, 라즈베리파이, ARM Cortex
+replit, Linux, OpenCV, OpenGL, QT, Arduino, 라즈베리파이, ARM Cortex, OpenAPI, IFTTT, Adafruit
 ### Tools
-MATLAB, visual studio, VScode, GIT, Notion
+MATLAB, visual studio, VScode, GIT, Notion, soildworks
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
