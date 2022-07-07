@@ -35,7 +35,8 @@ Try a look at my project.😄
 
 ## 🌞ME
 <a href="https://www.instagram.com/u.s_1.2/"><img src="https://img.shields.io/badge/u.s_1.2-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u.s_1.2/"/></a>
-<a href="https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D"><img src="https://img.shields.io/badge/jncdfgh13@naver.com-03C75A?style=flatsquare&logo=Naver&logoColor=white&link=https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D/"/></a>
+<a href="https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D"><img src="https://img.shields.io/badge/jncdfgh13@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D/"/></a>
+<a href="https://www.instagram.com/u.s_1.2/"><img src="https://img.shields.io/badge/jncdfgh@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://www.instagram.com/u.s_1.2/"/></a>
 
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
