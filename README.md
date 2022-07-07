@@ -34,7 +34,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Solidworks-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/></a> 
 
 ## 🌞ME
-
+<a href="https://www.instagram.com/u.s_1.2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u.s_1.2/"/></a>
 
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
