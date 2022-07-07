@@ -9,7 +9,7 @@ Try a look at my project.😄
 ## 💻Skills
 
 ### Languages
-<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=black"/></a> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 ### Platforms
@@ -17,7 +17,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> 
 <img src="https://img.shields.io/badge/Replit-667881?style=flat-square&logo=Replit&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Qt-A8B9CC?style=flat-square&logo=Qt&logoColor=black"/></a> 
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black&textColor=000000"/></a> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/ARM Cortex-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a> 
