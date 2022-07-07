@@ -33,7 +33,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Solidworks-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/></a> 
 
-## :trollface: ME
+## 🐰ME
 
 <!--
 **EuiSeonLEE/EuiSeonLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
