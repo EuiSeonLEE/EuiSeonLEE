@@ -25,7 +25,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Adafruit-000000?style=flat-square&logo=Adafruit&logoColor=white"/></a> 
 
 ### Tools
-<img src="https://img.shields.io/badge/MATLAB-2C4F7C?style=flat-square&logo=MathWorks&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MATLAB-A30701?style=flat-square&logo=MathWorks&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
