@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=wellcome&fontAlign=20&fontAlignY=33&height=140&fontColor=663333&fontSize=70)
 ## ✨Hi! My name is Euiseon Lee
-I was studied at Myongji University.
+I was studied at **Myongji University**.
 
-And interested in Embedded System.
+And interested in **Embedded System**.
 
 Try a look at my project.😄
 
