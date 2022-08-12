@@ -6,7 +6,7 @@ And interested in **Embedded System**.
 
 Try a look at my project.😄
 
-## 💻Skills
+## 💻Stack
 
 ### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a> 
