@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BC0000,100:000000&text=wellcome&fontAlign=20&fontAlignY=33&height=140&fontColor=663333&fontSize=70)
-## ✨Hi! My name is Euiseon Lee
+## ✨ Hi! My name is Euiseon Lee
 I was studied at **Myongji University**.
 
 And interested in **Embedded System**.
 
 Try a look at my project.😄
 
-## 💻Stack
+## 💻 Stack
 
 ### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a> 
@@ -35,7 +35,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Solidworks-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/></a> 
 
-## 🌞ME
+## 🌞 ME
 <a href="https://www.instagram.com/u.s_1.2/"><img src="https://img.shields.io/badge/u.s_1.2-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/u.s_1.2/"/></a>
 <a href="https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D"><img src="https://img.shields.io/badge/jncdfgh13@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D/"/></a>
 <a href="https://mail.google.com"><img src="https://img.shields.io/badge/jncdfgh@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com"/></a>
