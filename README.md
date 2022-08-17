@@ -12,6 +12,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a> 
 ### Platforms
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a> 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a> 
