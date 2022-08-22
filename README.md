@@ -24,7 +24,6 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/ARM Cortex-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Adafruit-000000?style=flat-square&logo=Adafruit&logoColor=white"/></a> 
 
 
 ### Tools
