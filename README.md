@@ -17,8 +17,7 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a> 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> 
-<img src="https://img.shields.io/badge/Replit-667881?style=flat-square&logo=Replit&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black&textColor=000000"/></a> 
+<img src="https://img.shields.io/badge/Replit-667881?style=flat-square&logo=Replit&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/ARM Cortex-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>
