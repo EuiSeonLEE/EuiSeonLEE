@@ -4,7 +4,7 @@ I was studied at **Myongji University**.
 
 And interested in **Embedded System**.
 
-Try a look at my project.😄 
+Try a look at my project.😄
 
 ## 💻 Stack
 
