@@ -8,11 +8,16 @@ Try a look at my project.😄
 
 ## 💻 Stack
 
+### IC Chip
+<img src="https://img.shields.io/badge/ARM Cortex-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a> 
+
 ### Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a> 
+
 ### Platforms
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv"/></a> 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=Opengl&logoColor=white"/></a> 
@@ -20,15 +25,13 @@ Try a look at my project.😄
 <img src="https://img.shields.io/badge/Replit-667881?style=flat-square&logo=Replit&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/ARM Cortex-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white"/></a> 
 
 
 ### Tools
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MATLAB-A30701?style=flat-square&logo=MathWorks&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
